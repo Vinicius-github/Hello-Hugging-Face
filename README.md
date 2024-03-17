@@ -1,1 +1,24 @@
 # Hello-Hugging-Face
+
+## Sobre o Hugging Face
+
+O Hugging Face é uma plataforma que oferece uma série de recursos relacionados a modelos de linguagem, incluindo modelos pré-treinados, bibliotecas de código aberto e ferramentas para treinar e implantar modelos de linguagem de forma eficiente. Eles são conhecidos especialmente por sua biblioteca de modelagem de linguagem chamada `transformers`.
+
+Este repositório contém códigos reproduzidos do primeiro capítulo do site oficial do Hugging Face.
+
+### Modelos Utilizados
+
+Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas de processamento de linguagem natural (PLN), incluindo:
+
+- **Tradução (Translation)**: Modelos para traduzir texto de uma língua para outra.
+- **Sumarização (Summarization)**: Modelos para gerar um resumo conciso de um texto mais longo.
+- **Análise de Sentimento (Sentiment Analysis)**: Modelos para determinar o sentimento expresso em um texto, como positivo, negativo ou neutro.
+- **Geração de Texto (Text Generation)**: Modelos para gerar texto continuando uma sequência de entrada.
+- **Preenchimento de Máscara (Mask Filling)**: Modelos para preencher lacunas em uma sequência de texto onde uma máscara foi inserida.
+- **Resposta a Perguntas (Question Answering)**: Modelos para responder a perguntas com base em um contexto fornecido.
+
+### Instalação
+
+Antes de começar, você precisará instalar a biblioteca `transformers`. Você pode fazer isso usando pip:
+
+!pip install transformers
