@@ -10,3 +10,15 @@ res = generator(
     "In this course, we will teach you how to"
 ) 
 print(res)
+
+
+# Quando você não especifica qual modelo utilizar no pipeline, ele utiliza o modelo padrão do tópico escolhido.
+# Podemos escolher diferentes modelos no Model Hub do Hugging Face e você pode configurar parametros para o modelo.
+
+generator2 = pipeline("text-generation", model="distilgpt2")
+res2 = generator2(
+    "In this course, we will teach you how to",
+    max_length=30,
+    num_return_sequences=2,
+)
+print(res2)
