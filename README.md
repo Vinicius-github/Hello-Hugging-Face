@@ -14,6 +14,7 @@ Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas
 - **Geração de Texto (Text Generation)**: Modelos para gerar texto continuando uma sequência de entrada.
 - **Preenchimento de Máscara (Mask Filling)**: Modelos para preencher lacunas em uma sequência de texto onde uma máscara foi inserida.
 - **Resposta a Perguntas (Question Answering)**: Modelos para responder a perguntas com base em um contexto fornecido.
+- **Reconhecimento de Entidades Nomeadas (NER - Named Entity Recognition)**: Modelos para identificar e classificar entidades nomeadas em um texto, como nomes de pessoas, locais, datas, etc.
 
 ### Instalação
 
