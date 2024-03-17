@@ -15,6 +15,7 @@ Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas
 - **Preenchimento de Máscara (Mask Filling)**: Modelos para preencher lacunas em uma sequência de texto onde uma máscara foi inserida.
 - **Resposta a Perguntas (Question Answering)**: Modelos para responder a perguntas com base em um contexto fornecido.
 - **Reconhecimento de Entidades Nomeadas (NER - Named Entity Recognition)**: Modelos para identificar e classificar entidades nomeadas em um texto, como nomes de pessoas, locais, datas, etc.
+- **Classificação Zero-shot (Zero-shot Classification)**: Modelos para classificar textos em categorias predefinidas, mesmo quando não há exemplos de treinamento específicos para essas categorias.
 
 ### Instalação
 
