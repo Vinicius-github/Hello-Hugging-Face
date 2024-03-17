@@ -4,8 +4,6 @@
 
 O Hugging Face é uma plataforma que oferece uma série de recursos relacionados a modelos de linguagem, incluindo modelos pré-treinados, bibliotecas de código aberto e ferramentas para treinar e implantar modelos de linguagem de forma eficiente. Eles são conhecidos especialmente por sua biblioteca de modelagem de linguagem chamada `transformers`.
 
-Este repositório contém códigos reproduzidos do primeiro capítulo do site oficial do Hugging Face.
-
 ### Modelos Utilizados
 
 Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas de processamento de linguagem natural (PLN), incluindo:
