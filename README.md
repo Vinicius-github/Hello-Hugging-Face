@@ -8,7 +8,7 @@ O Hugging Face é uma plataforma que oferece uma série de recursos relacionados
 
 Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas de processamento de linguagem natural (PLN), incluindo:
 
-- **Tradução (Translation)**: Modelos para traduzir texto de uma língua para outra. (Aqui)[https://github.com/Vinicius-github/Hello-Hugging-Face/tree/main/translation]
+- **Tradução (Translation)**: Modelos para traduzir texto de uma língua para outra. <a href=“[http://exemplo.com/](https://github.com/Vinicius-github/Hello-Hugging-Face/tree/main/translation)“>Flex Grid</a>
 - **Sumarização (Summarization)**: Modelos para gerar um resumo conciso de um texto mais longo.
 - **Análise de Sentimento (Sentiment Analysis)**: Modelos para determinar o sentimento expresso em um texto, como positivo, negativo ou neutro.
 - **Geração de Texto (Text Generation)**: Modelos para gerar texto continuando uma sequência de entrada.
