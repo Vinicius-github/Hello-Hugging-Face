@@ -21,6 +21,6 @@ Os modelos utilizados nesta primeira abordagem abrangem uma variedade de tarefas
 
 Antes de começar, você precisará instalar a biblioteca `transformers`. Você pode fazer isso usando pip:
 
-'''
+```
 !pip install transformers
-'''
+```
